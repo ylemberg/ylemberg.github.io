@@ -149,6 +149,11 @@ footer p {
   display: inline;
 }
 
-.bullet-point {
+.bullet-points {
   list-style-type: circle;
+  margin-left: 15px
+}
+
+.bullet-point {
+  margin-bottom: 6px
 }
