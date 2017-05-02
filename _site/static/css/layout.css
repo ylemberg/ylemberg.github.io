@@ -157,3 +157,7 @@ footer p {
 .bullet-point {
   margin-bottom: 6px
 }
+
+header .project-link {
+  color: #27A822;
+}
