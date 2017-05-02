@@ -142,3 +142,22 @@ footer p {
     margin-bottom: 10px;
     font-size: 10pt;
 }
+
+/*Recent Projects*/
+
+.project-title {
+  display: inline;
+}
+
+.bullet-points {
+  list-style-type: circle;
+  margin-left: 15px
+}
+
+.bullet-point {
+  margin-bottom: 6px
+}
+
+.project-description {
+  font-style: italic;
+}

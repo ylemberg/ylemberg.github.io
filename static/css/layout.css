@@ -142,3 +142,13 @@ footer p {
     margin-bottom: 10px;
     font-size: 10pt;
 }
+
+/*Recent Projects*/
+
+.project-title {
+  display: inline;
+}
+
+.bullet-point {
+  list-style-type: circle;
+}
