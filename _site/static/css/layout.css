@@ -161,3 +161,8 @@ footer p {
 header .project-link {
   color: #27A822;
 }
+
+.project-description {
+  font-style: italic;
+  color: grey;
+}
