@@ -3,7 +3,7 @@
 
 [![Build Status](https://secure.travis-ci.org/biomadeira/vitae.png?branch=gh-pages)](http://travis-ci.org/biomadeira/vitae)
 
-Simple place to view my resume. Can be view at [http://yuriylemberg.com/](http://yuriylemberg.com/)
+Simple place to view my resume. Can be view at [yuriylemberg.com](http://yuriylemberg.com/)
 
 
 ## View the live demo
