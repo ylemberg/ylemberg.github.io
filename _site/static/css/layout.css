@@ -84,7 +84,7 @@ article > header > span + span {
 }
 
 article > header > span + span::before {
-    content: '@';
+    /*content: '@';     */
     margin-right: 4px;
 }
 
@@ -166,4 +166,8 @@ header .project-link {
 .project-description {
   font-style: italic;
   color: rgb(30,144,255);
+}
+
+.minor-block {
+  display: block;
 }
