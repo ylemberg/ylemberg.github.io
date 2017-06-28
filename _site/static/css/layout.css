@@ -163,6 +163,11 @@ header .project-link {
 
 }
 
+header .project-link:hover, .three a:hover, .reading-link:hover {
+  color: rgb(0,255,127);
+
+}
+
 .project-description {
   font-style: italic;
   color: rgb(30,144,255);
