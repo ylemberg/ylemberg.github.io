@@ -58,6 +58,10 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+ .container p::selection, .container li::selection {
+	background: rgb(51, 120, 255);
+ }
+
 
 /* #Typography
 ================================================== */
